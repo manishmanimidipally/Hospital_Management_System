@@ -2,7 +2,7 @@
 
 <br/>
 <p align="center">
-  <a href="https://github.com/hamzaezzine/Hospital-Management">
+  <a href="https://github.com/manishmanimidipally/Hospital_Management_System/">
     <img src="static/img/logo.png" alt="Logo"  height="80">
   </a>
 
@@ -12,15 +12,15 @@
     Hospital Management Django Website
     <br/>
     <br/>
-    <a href="https://github.com/hamzaezzine/Hospital-Management">View Demo</a>
+    <a href="https://hospital-management-system-1-etue.onrender.com/">View Demo</a>
     .
-    <a href="https://github.com/hamzaezzine/Hospital-Management/issues">Report Bug</a>
+    <a href="https://github.com/manishmanidipally/Hospital-Management/issues">Report Bug</a>
     .
-    <a href="https://github.com/hamzaezzine/Hospital-Management/issues">Request Feature</a>
+    <a href="https://github.com/manishmanidipally/Hospital-Management/issues">Request Feature</a>
   </p>
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/hamzaezzine/Hospital-Management?color=dark-green) ![Forks](https://img.shields.io/github/forks/hamzaezzine/Hospital-Management?style=social) ![Stargazers](https://img.shields.io/github/stars/hamzaezzine/Hospital-Management?style=social) ![Issues](https://img.shields.io/github/issues/hamzaezzine/Hospital-Management) 
+![Contributors](https://img.shields.io/github/contributors/manishmanidipally/Hospital-Management?color=dark-green) ![Forks](https://img.shields.io/github/forks/manishmanidipally/Hospital-Management?style=social) ![Stargazers](https://img.shields.io/github/stars/manishmanidipally/Hospital-Management?style=social) ![Issues](https://img.shields.io/github/issues/manishmanidipally/Hospital-Management) 
 
 ## Table Of Contents
 
@@ -72,7 +72,7 @@ Make sure you have the following prerequisites installed on your machine:
 1. Clone the repository to your local machine:
 
 ```bash
-   git clone https://github.com/hamzaezzine/Hospital-Management  
+   https://github.com/manishmanimidipally/Hospital_Management_System/
 ```
 
 2. Create virtual environmenet  :  
@@ -115,7 +115,7 @@ python manage.py runserver
 5. Explore the features, including blog management, appointment scheduling, and more.
 
 ## Live Demo
-Check Website Online here : [Hospital Management](https://hamzaezzine.pythonanywhere.com/)
+Check Website Online here : https://hospital-management-system-1-etue.onrender.com/
 
 
 ## Conception
